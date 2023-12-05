@@ -1,0 +1,19 @@
+*.vcxproj.user
+Release_x64/
+Release_x86/
+Debug_x64/
+Debug_x86/
+packages/
+*.vscode
+.vscode/
+Release/
+Debug/
+ipch/
+x64/
+x86/
+.vs/
+
+// Ignore the binary generated version of the resource (.rc) file
+*.aps
+
+Output/
